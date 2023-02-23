@@ -3,6 +3,12 @@
 - 🔭 Atualmente, estou cursando o 2° série em Informática no Cotuca - Unicamp <br>
 - 🌱 Estudando React.js
 
+<div>
+  <a href="https://github.com/PIETRO6806"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PIETRO6806&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIETRO6806&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,10 +19,6 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Pietro" height="150" style="border-radius:50px;" src="https://play-lh.googleusercontent.com/fVRg0B1Pgo0l93mSrqSnqZSNNcaqEyMGc-Y2qWqhwOE-IhYe1ogAnnFuieK9iZ8VVg">
-</div>
-
-<div>
- 
 </div>
 
 ##
