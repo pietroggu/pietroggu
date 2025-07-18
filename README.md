@@ -4,9 +4,9 @@
 - 🌱 Estudando C e Python
 
 <div>
-  <a href="https://github.com/PIETRO6806"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PIETRO6806&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIETRO6806&layout=compact&langs_count=16&theme=tokyonight"/>
+  <a href="https://github.com/pietroggu"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pietroggu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietroggu&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
