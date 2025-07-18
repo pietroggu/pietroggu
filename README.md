@@ -1,7 +1,7 @@
 ## Olá, eu sou o Pietro Gutiérrez
 
 - 🔭 Atualmente, estou cursando o 1º Semestre de Ciência de Dados no ICMC-USP <br>
-- 🌱 Estudando C
+- 🌱 Estudando C e Python
 
 <div>
   <a href="https://github.com/PIETRO6806"> 
