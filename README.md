@@ -1,6 +1,6 @@
 ## Olá, eu sou o Pietro Gutiérrez
 
-- 🔭 Atualmente, estou cursando o 1º Semestre de Ciência de Dados no ICMC-USP <br>
+- 🔭 Atualmente, estou cursando o 2º Semestre de Ciência de Dados no ICMC-USP <br>
 - 🌱 Estudando C e Python
 
 <div>
@@ -25,7 +25,7 @@
 ##
 
 <div> 
-  <a href="https://instagram.com/6806pietro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/pietrogutierrez_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pietro-gutiérrez-garcía-urrutia-36b3bb215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
